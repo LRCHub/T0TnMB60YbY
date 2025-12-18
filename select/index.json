@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "常夜燈",
+  "base_artist": "PEOPLE 1",
+  "createdAt": "2025-12-18T15:08:58.403860Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "常夜燈",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/01_常夜燈_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "常夜燈 - Joyato",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/02_常夜燈_-_Joyato_PEOPLE_1.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "常夜燈",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/03_常夜燈_PEOPLE_1.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "常夜燈",
+      "artist": "PEOPLE 1",
+      "has_synced": false,
+      "path": "select/pl_01_常夜燈_PEOPLE_1.txt"
+    }
+  ]
+}
