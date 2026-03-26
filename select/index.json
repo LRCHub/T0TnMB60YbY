@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "常夜燈",
   "base_artist": "PEOPLE 1",
-  "createdAt": "2025-12-18T15:09:02.503297Z",
+  "createdAt": "2026-03-26T12:31:25.397746Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "PEOPLE 1",
       "has_synced": false,
       "path": "select/pl_01_常夜燈_PEOPLE_1.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "常夜燈",
+      "artist": "PEOPLE 1",
+      "has_synced": true,
+      "path": "select/localdb_01_常夜燈_PEOPLE_1.lrc",
+      "repo_name": "OZpv_AcPCKg"
     }
   ]
 }
